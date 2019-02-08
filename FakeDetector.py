@@ -51,7 +51,7 @@
 # Banned extensions.
 #
 # Downloads which contain files with any of the following extensions will be marked as fake.
-# Extensions must be separated by a comma (eg: .wmv, .divx).
+# Extensions must be separated by a comma (eg: '.wmv', '.divx').
 #BannedExtensions=
 
 
